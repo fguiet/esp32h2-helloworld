@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/mnt/nfs/fred/projets/sensors/esp32h2-helloworld/build/CMakeFiles/bootloader
+/mnt/nfs/fred/projets/sensors/esp32h2-helloworld/build/CMakeFiles/bootloader.rule
+/mnt/nfs/fred/projets/sensors/esp32h2-helloworld/build/CMakeFiles/bootloader-complete.rule
+/mnt/nfs/fred/projets/sensors/esp32h2-helloworld/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/mnt/nfs/fred/projets/sensors/esp32h2-helloworld/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/mnt/nfs/fred/projets/sensors/esp32h2-helloworld/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/mnt/nfs/fred/projets/sensors/esp32h2-helloworld/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/mnt/nfs/fred/projets/sensors/esp32h2-helloworld/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/mnt/nfs/fred/projets/sensors/esp32h2-helloworld/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/mnt/nfs/fred/projets/sensors/esp32h2-helloworld/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
